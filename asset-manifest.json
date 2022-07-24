@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/to-do-list/static/css/main.fa3d7a32.css",
-    "main.js": "/to-do-list/static/js/main.e27a49c2.js",
+    "main.css": "/to-do-list/static/css/main.48488a60.css",
+    "main.js": "/to-do-list/static/js/main.572b3576.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/to-do-list/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/to-do-list/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/to-do-list/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
@@ -11,11 +11,11 @@
     "static/media/Vazir-Medium.woff": "/to-do-list/static/media/Vazir-Medium.8c1954ee5d7d3e93ea70.woff",
     "static/media/Vazir-Medium.woff2": "/to-do-list/static/media/Vazir-Medium.326510fe7e3575e16b7f.woff2",
     "index.html": "/to-do-list/index.html",
-    "main.fa3d7a32.css.map": "/to-do-list/static/css/main.fa3d7a32.css.map",
-    "main.e27a49c2.js.map": "/to-do-list/static/js/main.e27a49c2.js.map"
+    "main.48488a60.css.map": "/to-do-list/static/css/main.48488a60.css.map",
+    "main.572b3576.js.map": "/to-do-list/static/js/main.572b3576.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa3d7a32.css",
-    "static/js/main.e27a49c2.js"
+    "static/css/main.48488a60.css",
+    "static/js/main.572b3576.js"
   ]
 }
