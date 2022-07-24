@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Vazir';
+    src:  url('../public/fonts/Vazir-Medium.eot') format('eot'),
+          url('../public/fonts/Vazir-Medium.woff') format('woff'),
+          url('../public/fonts/Vazir-Medium.woff2') format('woff2');
+
+  }
+  *{
+      text-decoration: none;
+  }
+  a{
+      color: white;
+  }
+  html{
+      scroll-behavior: smooth;
+  }
+
+body{
+    font-family: Vazir!important;
+    text-align: center;
+}
+
+.icon i{
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.edit-key {
+    text-decoration: none;
+    color: black;
+}
+
+.saat{
+    text-align: left !important;
+    font-size: 12px;
+}
